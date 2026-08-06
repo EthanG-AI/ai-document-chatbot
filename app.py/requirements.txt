@@ -1,0 +1,11 @@
+ai-document-chatbot/
+│
+├── app.py
+├── requirements.txt
+├── config.py
+├── rag.py
+├── auth.py
+├── models.py
+├── Dockerfile
+├── README.md
+└── data/
